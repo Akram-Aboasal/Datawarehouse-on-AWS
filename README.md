@@ -42,7 +42,7 @@ The log files in the dataset you'll be working with are partitioned by year and 
     README.md: provides discussion on the project.
 
 ## Database Schema Design
-![image](C:\Users\AKRAM\Downloads\schema.jpg)
+![image](F:\NDA\DWH\sparkify\schema.png)
 
 Staging Tables:
 
